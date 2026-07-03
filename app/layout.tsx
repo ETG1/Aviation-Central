@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Aviation Central | Southern Africa's Airshow Guide",
+  title: "Aviation Central | South Africa's Airshow Guide",
   description: "Discover the best aviation events, tips for attending, and join our growing community.",
 };
 
