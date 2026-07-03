@@ -33,7 +33,7 @@ export function WhyChooseUs() {
           
           <div className="relative h-[400px] md:h-[500px] w-full rounded-2xl overflow-hidden shadow-2xl">
             <Image
-              src="https://images.unsplash.com/photo-1579738101416-56be2e8bd5f9?q=80&w=2000&auto=format&fit=crop"
+              src="/images/crowd.jpg"
               alt="Airshow crowds looking at the sky"
               fill
               sizes="(max-width: 1024px) 100vw, 50vw"

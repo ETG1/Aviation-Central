@@ -18,7 +18,7 @@ export default function AboutPage() {
       <section className="relative w-full h-[360px] md:h-[440px] flex items-end pb-12 overflow-hidden bg-navy">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1583094896792-88ec0c5bc624?q=80&w=2000&auto=format&fit=crop"
+            src="/images/biplane.jpg"
             alt="Aviation enthusiasts at an airshow"
             fill
             priority
@@ -47,10 +47,16 @@ export default function AboutPage() {
                 Who We Are
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Aviation Central was born out of a simple frustration: finding reliable, up-to-date information about airshows in South Africa was surprisingly difficult. Event websites came and went, social media posts got buried, and first-timers had nowhere to turn for practical advice.
+                
+
+Aviation Central is a South African-based platform built on a passion for aviation, connecting enthusiasts and professionals across the region and beyond. Established in 2009 on Facebook, it has grown into a trusted source for aviation news, industry updates, airshows, and events. Our mission is to inform, promote, and celebrate aviation while making content accessible to a wide audience. From commercial and general aviation to military and community stories, we cover it all. Driven by a dedicated team of enthusiasts, Aviation Central remains a passion project committed to sharing the excitement and diversity of aviation in Southern Africa.
+
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                We set out to fix that. Aviation Central is a community-driven hub that centralises airshow listings, attendance guides, and aviation news for enthusiasts across South Africa and the broader region. Whether you're a seasoned pilot, a photography enthusiast chasing the perfect shot, or a parent bringing your child to their first airshow — this site is for you.
+                
+
+Aviation Central is a South African-based platform built on a passion for aviation, connecting enthusiasts and professionals across the region and beyond. Established in 2009 on Facebook, it has grown into a trusted source for aviation news, industry updates, airshows, and events. Our mission is to inform, promote, and celebrate aviation while making content accessible to a wide audience. From commercial and general aviation to military and community stories, we cover it all. Driven by a dedicated team of enthusiasts, Aviation Central remains a passion project committed to sharing the excitement and diversity of aviation in Southern Africa.
+
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 We list events from all nine provinces, publish first-timer guides written from real experience, and maintain an active presence on social media where the community shares photos, tips, and memories from every event.
@@ -72,7 +78,7 @@ export default function AboutPage() {
 
             <div className="relative h-[400px] md:h-[500px] w-full rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1518133544321-df62c16f2c79?q=80&w=2000&auto=format&fit=crop"
+                src="/images/puma.jpg"
                 alt="Biplane in flight at sunset"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

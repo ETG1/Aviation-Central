@@ -94,7 +94,7 @@ export default function AttendingAirshowPage() {
       <section className="relative w-full h-[360px] md:h-[440px] flex items-end pb-12 overflow-hidden bg-navy">
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.unsplash.com/photo-1544257121-827fc79ec2f8?q=80&w=2000&auto=format&fit=crop"
+            src="/images/att.jpg"
             alt="Crowds watching an airshow"
             fill
             priority

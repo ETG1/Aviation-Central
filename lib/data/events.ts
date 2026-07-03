@@ -10,7 +10,7 @@ export const events: AirshowEvent[] = [
     location: "Air Force Base Waterkloof",
     summary: "The largest aerospace and defence exhibition in Africa.",
     description: "The Africa Aerospace and Defence (AAD) is Africa's only aerospace and defence expo that combines both a trade exhibition and an air show. Held biennially in the City of Tshwane – South Africa’s administrative capital, the AAD Expo is one of South Africa’s largest contributors to the national GDP in show years.",
-    heroImage: "https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=2000&auto=format&fit=crop",
+    heroImage: "/images/aad.jpg",
     ticketUrl: "https://aadexpo.co.za",
     featured: true,
   },
@@ -67,7 +67,7 @@ export const events: AirshowEvent[] = [
     location: "Bethlehem Airfield",
     summary: "A spectacular showcase of aviation in the heart of the Free State.",
     description: "The Bethlehem Airshow is known for its excellent displays and welcoming atmosphere. Expect a full day of aerobatics, static displays, and family entertainment.",
-    heroImage: "https://images.unsplash.com/photo-1612086392015-d72b535d4ed7?q=80&w=2000&auto=format&fit=crop",
+    heroImage: "/images/beth.jpg",
     featured: false,
   }
 ];

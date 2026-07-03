@@ -12,7 +12,7 @@ export function HeroSection() {
     <section className="relative w-full h-[600px] md:h-[700px] flex items-center bg-navy overflow-hidden">
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1540962351504-03099e0a754b?q=80&w=2000&auto=format&fit=crop"
+          src="/images/hero.jpg"
           alt="Aerobatic aircraft in flight"
           fill
           priority

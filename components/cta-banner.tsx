@@ -8,7 +8,7 @@ export function CtaBanner() {
     <section className="relative w-full py-20 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1596775618485-64e525141203?q=80&w=2000&auto=format&fit=crop"
+          src="/images/cta.jpg"
           alt="Vintage plane against sky"
           fill
           sizes="100vw"
